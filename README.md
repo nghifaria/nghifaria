@@ -67,13 +67,9 @@ Here are a few projects I've worked on recently with friends and on my own. Clic
 
 ### 📈 Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nghifaria&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_rank=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nghifaria&show_icons=true&theme=transparent&hide_border=true&title_color=0969da&text_color=24292f&icon_color=0969da&hide_rank=true" />
-  <img alt="Naufal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nghifaria&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" width="48%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nghifaria&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nghifaria&layout=compact&theme=transparent&hide_border=true&title_color=0969da&text_color=24292f" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghifaria&layout=compact&theme=transparent&hide_border=true" width="45%" />
-</picture>
+<p align="left">
+<a href="https://github.com/nghifaria">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nghifaria&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nghifaria&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
